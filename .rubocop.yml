@@ -1,7 +1,6 @@
 AllCops:
   NewCops: enable
   Exclude:
-    - "vendor/bundle/**/json-*/**/*.rb"
     - "Guardfile"
     - "Rakefile"
     - "node_modules/**/*"

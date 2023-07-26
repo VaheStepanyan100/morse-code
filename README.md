@@ -12,7 +12,6 @@
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
-    - [Usage](#usage)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -67,18 +66,6 @@ Example commands:
   cd my-folder
   git clone git@github.com:VaheStepanyan100/morse-code.git
 ```
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

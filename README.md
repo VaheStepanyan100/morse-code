@@ -12,8 +12,8 @@
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
-    - [Usage](#usage)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -67,18 +67,6 @@ Example commands:
   git clone git@github.com:VaheStepanyan100/morse-code.git
 ```
 
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -94,6 +82,14 @@ Example command:
 
 - GitHub: [@githubhandle](https://github.com/Peter-Dumbari)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/peterdumbari/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Morse Code Generation]**
+- [ ] **[Training Mode for User Learning]**
+- [ ] **[Multi-Language Support]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

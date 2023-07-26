@@ -14,6 +14,7 @@
     - [Setup](#setup)
     - [Usage](#usage)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -94,6 +95,14 @@ Example command:
 
 - GitHub: [@githubhandle](https://github.com/Peter-Dumbari)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/peterdumbari/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Morse Code Generation]**
+- [ ] **[Training Mode for User Learning]**
+- [ ] **[Multi-Language Support]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
